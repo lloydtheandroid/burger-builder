@@ -10,7 +10,7 @@ To use:
 1) Run "npm install" in the extracted folder
 2) Run "npm start" to view the project
 
-**Note:** *"./src/hoc/Aux.js" is a reserved name in windows.* You will need to add this file manually. 
+**NOTE:** **/src/hoc/Aux.js** *is a reserved name in windows.* You will need to add this file manually. See below:  
 ### Aux.js
 ```javascript
 const aux = (props) => props.children;
